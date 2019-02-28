@@ -4,5 +4,5 @@ This repo contains an end to end chatbot that takes (weather query) as a voice i
 
 As of now the chatbot is not equipped with named entity recognition (or) any sort of entity recognition per say.
 
-They will be added to the bot taking later on. 
+They will be added to the bot later on. 
 
